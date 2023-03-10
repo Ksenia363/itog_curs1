@@ -1,0 +1,15 @@
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\bin\Debug\net6.0\zadachaitog.exe
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\bin\Debug\net6.0\zadachaitog.deps.json
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\bin\Debug\net6.0\zadachaitog.runtimeconfig.json
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\bin\Debug\net6.0\zadachaitog.dll
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\bin\Debug\net6.0\zadachaitog.pdb
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\obj\Debug\net6.0\zadachaitog.csproj.AssemblyReference.cache
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\obj\Debug\net6.0\zadachaitog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\obj\Debug\net6.0\zadachaitog.AssemblyInfoInputs.cache
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\obj\Debug\net6.0\zadachaitog.AssemblyInfo.cs
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\obj\Debug\net6.0\zadachaitog.csproj.CoreCompileInputs.cache
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\obj\Debug\net6.0\zadachaitog.dll
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\obj\Debug\net6.0\refint\zadachaitog.dll
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\obj\Debug\net6.0\zadachaitog.pdb
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\obj\Debug\net6.0\zadachaitog.genruntimeconfig.cache
+C:\Users\kgleb\Desktop\itogovaya_rabota_1\zadachaitog\obj\Debug\net6.0\ref\zadachaitog.dll
